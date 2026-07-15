@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Button, Typography, IconButton, useTheme } from '@mui/material';
+import { Box, Typography, IconButton, useTheme } from '@mui/material';
 import NavigateBeforeIcon from '@mui/icons-material/NavigateBefore';
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import {
-  Box, Grid, Card, CardContent, Typography, Divider,
+  Box, Grid, Card, CardContent, Typography,
   Skeleton, Alert, Button,
 } from '@mui/material';
 import AssignmentIcon from '@mui/icons-material/Assignment';
